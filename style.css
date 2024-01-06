@@ -136,3 +136,41 @@ table {
 }
 
 /* Tutup  CSS Reset*/
+.Head {
+    font-family: 'Open Sans', sans-serif;
+    line-height: 1.5;
+    font-size: 25px;
+    background-color: #d69f39;
+    color: hsl(0, 0%, 100%);
+    text-align: center;
+    border: #000000;
+    border-style: solid;
+    border-width: 1;
+    border-bottom: 2px;
+    border-top: 2px;
+    
+}
+
+.Nav{
+    font-family: 'Open Sans', sans-serif;
+    line-height: 1.5;
+    font-size: 25px;
+    background-color: #2be6f3;
+    color: #333;
+    text-align: center;
+    border: #333;
+    border-width: 1;
+    border-style: solid;
+}
+
+.Foot{
+    font-family: 'Open Sans', sans-serif;
+    line-height: 1.5;
+    font-size: 25px;
+    background-color: #2be6f3;
+    color: #333;
+    text-align: center;
+    border: #333;
+    border-width: 1;
+    border-style: solid;
+}
