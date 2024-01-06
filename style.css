@@ -136,3 +136,28 @@ table {
 }
 
 /* Tutup  CSS Reset*/
+
+.wrap {
+    display: flex;
+    font-weight: bold;
+    align-items: center;
+}
+
+.container {
+    width: 70%;
+    height: 500px;
+    /* border: 1px black solid; */
+    line-height: 500px;
+    text-align: center;
+    background-color: rgb(149, 149, 199);
+}
+
+.sbkiri,
+.sbkanan {
+    width: 15%;
+    line-height: 500px;
+    /* border: 1px black solid; */
+    height: 500px;
+    background-color: rgb(108, 100, 116);
+    text-align: center;
+}
